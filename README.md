@@ -6,3 +6,4 @@ The project is useful for many organizations and businesses, such as restaurants
 
 **Where users can get help with your project**  
 Reference the README or contact the authors.
+(users luppala21, Larimitus, or zalsafwani)
